@@ -1,0 +1,10 @@
+# frozen_string_literal: true
+source "https://rubygems.org"
+gem "cucumber"
+gem "factory_bot"
+gem "rspec"
+gem "httparty"
+gem "rspec_junit_formatter", "~> 0.4.1"
+gem "allure-cucumber", "2.15"
+gem "ruby-progressbar", "~> 1.11"
+gem "ruby_parser", "~> 3.18", ">= 3.18.1"
